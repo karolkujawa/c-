@@ -1,7 +1,7 @@
 # c.kod-morsa
 Pierwsze spotkanie z c#. Zamiana liter na znaki 'morsa'. 
 
-First meeting with #. Conversion of letters into 'mors' charakter. 
+First meeting with c#. Conversion of letters into 'mors' charakter. 
 
 Use two dictionaries to translate in both way on windowed mode. 
 
